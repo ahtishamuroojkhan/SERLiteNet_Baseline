@@ -74,10 +74,6 @@ These complementary feature maps are stacked to form a **40 × 63 × 4** input t
 
 # Audio Preprocessing
 
-<p align="center">
-<img src="Images/audio_preprocessing_pipeline.png" width="900">
-</p>
-
 The speech preprocessing pipeline consists of
 
 - Signal Normalization
@@ -87,10 +83,6 @@ The speech preprocessing pipeline consists of
 ---
 
 # Multi-Level Acoustic Feature Extraction
-
-<p align="center">
-<img src="Images/multi_level_acoustic_features.png" width="900">
-</p>
 
 Four complementary acoustic representations are extracted:
 
@@ -105,9 +97,6 @@ These representations are fused through channel-wise early feature fusion before
 
 # Example Feature Representations
 
-<p align="center">
-<img src="Images/feature_comparison.png" width="900">
-</p>
 
 The figure illustrates representative multi-level acoustic features extracted from different emotional speech samples.
 
