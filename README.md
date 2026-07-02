@@ -177,31 +177,7 @@ The final training pipeline incorporates
 
 ---
 
-# Experimental Results
 
-## Training Accuracy
-
-<p align="center">
-<img src="Images/training_accuracy_curve.png" width="700">
-</p>
-
----
-
-## Training Loss
-
-<p align="center">
-<img src="Images/training_loss_curve.png" width="700">
-</p>
-
----
-
-## Confusion Matrix
-
-<p align="center">
-<img src="Images/confusion_matrix.png" width="700">
-</p>
-
----
 
 # Performance
 
