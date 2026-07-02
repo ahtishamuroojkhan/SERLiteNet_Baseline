@@ -1,13 +1,7 @@
 # SERLiteNet_Baseline
 # SERLiteNet: A Lightweight Residual Depthwise Convolutional Neural Network with Multi-Level Acoustic Feature Fusion for Speech Emotion Recognition
 
-<p align="center">
 
-<img src="Images/proposed_lightsernet_architecture.png" width="900">
-
-</p>
-
----
 
 ## Overview
 
