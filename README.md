@@ -162,6 +162,7 @@ Dataset:
 https://zenodo.org/record/1188976
 
 ---
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 # Training Strategy
 
